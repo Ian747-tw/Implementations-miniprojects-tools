@@ -23,6 +23,7 @@ def prepare_data(filepath):
     
     return X_np, Y_np
 
+
 def train_model(X, Y):
     input_dim = X.shape[1]
     learning_rate = 0.01
