@@ -1,0 +1,23 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+a.out
+
+# Build directories
+build/
+cmake-build-*/
+
+# Debug files
+*.gdb
+*.valgrind
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Data outputs (if large)
+output/

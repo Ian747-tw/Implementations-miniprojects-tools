@@ -1,9 +1,0 @@
-[submodule "data_practice"]
-	path = data_practice
-	url = git@github.com:Ian747-tw/cpp-data-analysis-project.git
-[submodule "decision_tree"]
-	path = decision_tree
-	url = git@github.com:Ian747-tw/Decision_tree_implementation.git
-[submodule "big_number_class"]
-	path = big_number_class
-	url = git@github.com:Ian747-tw/Big_Int.git
